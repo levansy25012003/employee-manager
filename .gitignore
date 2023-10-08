@@ -1,0 +1,12 @@
+*.lock
+*.war
+*.xml
+*.gradle
+*.jar
+*.properties
+*.MF
+*.class
+gradlew
+*.bin
+*.bat
+*.idea
